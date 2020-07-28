@@ -249,13 +249,13 @@ footer p {
 -------------------------------------------------- */
 @media (min-width: 20em) {
   .carousel {
-    height: 140px;
+    height: 200px;
   }
 }
 
 @media (min-width: 40em) {
   .carousel {
-    height: 140px;
+    height: 200px;
   }
 
   /* Bump up size of carousel content */
@@ -272,7 +272,7 @@ footer p {
 
 @media (min-width: 62em) {
   .carousel {
-    height: 140px;
+    height: 200px;
   }
 
   .featurette-heading {
